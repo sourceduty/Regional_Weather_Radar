@@ -18,7 +18,7 @@ Users could enter coordinates for their private property or area.
 
 [Global Precipitation Measurement](https://gpm.nasa.gov/category/keywords/snowfall#:~:text=The%20Global%20Precipitation%20Measurement%20mission,snow%20worldwide%20every%20three%20hours.)
 
-COPYRIGHT
+### COPYRIGHT
 
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
 
