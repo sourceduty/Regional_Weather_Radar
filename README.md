@@ -13,7 +13,6 @@ Provincial and regional weather software that shows the location of precipitatio
 
 ![Regional_Weather_Radar](https://github.com/sourceduty/Regional_Weather_Radar/assets/123030236/8980861e-9d13-4e42-9fba-ed4066e831dc)
 
-### REFERENCES
 
 [Ontario county map](https://www.google.com/maps/d/u/0/viewer?mid=1kKPz6L-BMydiGF0UHmJYfjgBuoY&hl=en)
 
@@ -26,4 +25,5 @@ Provincial and regional weather software that shows the location of precipitatio
 ***
 
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
+
 THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
