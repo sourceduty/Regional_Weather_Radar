@@ -10,6 +10,10 @@ Provincial and regional weather software that shows the location of precipitatio
 - Farmers could enter coordinates for their farm fields.
 
 #
+
+![Weather Concept](https://github.com/sourceduty/Regional_Weather_Radar/assets/123030236/4254c568-5e01-4612-bd3e-1aff209b5b67)
+
+#
 ### Related Links
 
 [Ontario county map](https://www.google.com/maps/d/u/0/viewer?mid=1kKPz6L-BMydiGF0UHmJYfjgBuoY&hl=en)
@@ -17,8 +21,6 @@ Provincial and regional weather software that shows the location of precipitatio
 [Water-snow Ratio](https://1drv.ms/b/s!AumZxqj6wFkfhoRDtBWh3tNdMk8EWw?e=ENaqnQ)
 <br>
 [Global Precipitation Measurement](https://gpm.nasa.gov/category/keywords/snowfall#:~:text=The%20Global%20Precipitation%20Measurement%20mission,snow%20worldwide%20every%20three%20hours.)
-<br>
-![Weather Concept](https://github.com/sourceduty/Regional_Weather_Radar/assets/123030236/4254c568-5e01-4612-bd3e-1aff209b5b67)
 
 ***
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
